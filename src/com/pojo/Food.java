@@ -6,11 +6,11 @@ public class Food {
     private String FoodCategory;
     private double FoodPrice;
 
-    Food(){
-
+    public Food(){
+        super();
     }
 
-    Food(int FoodID, String FoodName, String FoodCategory, double FoodPrice){
+    public Food(int FoodID, String FoodName, String FoodCategory, double FoodPrice){
         this.FoodID = FoodID;
         this.FoodName = FoodName;
         this.FoodCategory = FoodCategory;
@@ -44,7 +44,7 @@ public class Food {
     }
 
     public String toString(){
-        return "Food Details: \n1. Food ID: "+FoodID+"\nFood Name: "+FoodName+"\nFood Category: "+FoodCategory+"\nFood Price: "+FoodPrice;
+        return "Food Details: \nFood ID: "+FoodID+", Food Name: "+FoodName+", Food Category: "+FoodCategory+", Food Price: "+FoodPrice;
     }
 
 }
