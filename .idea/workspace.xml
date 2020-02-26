@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b5b5593-6c34-4f45-9208-b657a4519b05" name="Default Changelist" comment="" />
+    <list default="true" id="0b5b5593-6c34-4f45-9208-b657a4519b05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,6 +36,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="FoodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.FoodTest" />
+      <module name="Food-Plaza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FoodTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -45,5 +68,51 @@
       <updated>1582553095019</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1582560024659">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582560024659" />
+    <state width="1879" height="372" key="GridCell.Tab.0.bottom" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.0.bottom/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.0.center" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.0.center/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.0.left" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.0.left/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.0.right" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.0.right/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.1.bottom" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.1.bottom/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.1.center" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.1.center/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.1.left" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.1.left/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state width="1879" height="372" key="GridCell.Tab.1.right" timestamp="1582571918467">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1879" height="372" key="GridCell.Tab.1.right/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582571918467" />
+    <state x="614" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582718339563">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="614" y="349" key="com.intellij.ide.util.TipDialog/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582718339563" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1582565768234">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/-1600.0.1600.870/0.0.1920.1050@0.0.1920.1050" timestamp="1582565768234" />
   </component>
 </project>
